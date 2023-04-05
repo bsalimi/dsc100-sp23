@@ -42,6 +42,7 @@ Aditya Lahiri: Monday 4-5 pm
 
 
 
+
 **Piazza:** [link](https://piazza.com/ucsd/spring2023/dsc100/) (Requires access code posted on Canvas)
 
 **Have questions? Please email Babak Salimi (bsalimi@ucsd.edu) and at least one of the TAs for questions about logistics. All other questions should be discussed on Piazza.**
